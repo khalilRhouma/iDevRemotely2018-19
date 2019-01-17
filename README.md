@@ -153,6 +153,13 @@ ___
 **Favorite Quote:** "Thinking is the hardest work there is, that is why few people engage in it" <br>
 **The adjective that best describes me:** Ground-Breaker <br>
 ___
-
+**Name:**khalil Rhouma Ghardadou<br>
+**Occupation:** Computer Science engineering student | web development <br>
+**Intresets:**Artificial Intelligence | Deep learning |Machine learning <br>
+**Role Model:**Successful peoples <br>
+**Favorite Superhero:**Me <br>
+**Favorite Quote:** "YES, You can" <br>
+**The adjective that best describes me:** Science-lover <br>
+___
 **Next profile goes above me**  👆 (Do not delete this line)
 
